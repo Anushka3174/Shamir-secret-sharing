@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+###Pre-requisite
+NodeJs
+
 ## To run the program, follow these steps
 
 In the project directory, once you clone the repo:
