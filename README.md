@@ -28,8 +28,8 @@ Note: Please make sure that the threshold signifies the number of shares, not th
  
 ### In the recovery process
  - Select family and friends in a way to reach the threshold number of shares mentioned during the partition of key.
- - Enter Submit
-  The key will be recovered and shown in the screen.
+ - Enter Submit\
+  The key will be recovered successfully and shown in the screen.
  
  
 
